@@ -6,5 +6,3 @@
 - 🤔 I’m looking for help with Architecture
 - 💬 Ask me about Whoa happening
 - 📫 How to reach me: Telegram: @LISP_machine
-- 😄 Pronouns: clj/cljs
-- ⚡ Fun fact: 
