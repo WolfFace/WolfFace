@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on Learning Clojure
 - 🤔 I’m looking for help with Architecture
 - 💬 Ask me about Whoa happening
-- 📫 How to reach me: Telegram: @LISP_machine
+- 📫 How to reach me:
